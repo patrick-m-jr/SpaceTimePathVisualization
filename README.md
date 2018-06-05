@@ -4,11 +4,10 @@ Introduction to a Space-Time Path Visualization.
 
 Inspired by Mei Po Kwan's Space-Time Path visualizations.
 
-<img src= "images/arcgisAppStudio1.png" width = "500">
+<img src= "images/MeiPoKwan.jpeg" width = "500">
 
 ## Updating Three Sections of the QT Code: Map Background, URL for MapServer, and Viewpoint (center, scale, and spatialreference) parameters. These are indicated by the red arrows. 
 
-<img src= "images/qmlCodeSample.png" width = "500">
 
 ### 1. Basemap options: Update the basemap accordingly. A <a href = "https://developers.arcgis.com/qt/latest/qml/api-reference/qml-esri-arcgisruntime-basemap.html" target ="_blank"> list </a> of options can be found here. 
 
