@@ -18,17 +18,16 @@ Differences:
 ## Structured Layers
 <img src= "images/3D_LayerStructure.jpg" width = "800" height = "500">
 
-
-
-a. This first option errored out when I ran the application. My assumption is that it is because it is calling a Map Service I created a hosted on a secure platform. I tried to 'Add Item' to my ArcGIS Online and embed security credentials but it was still erroring out. (<a href="https://youtu.be/F-1FVWIzzqo">YouTube Video</a>)
+This image deconstructs the geospatial information proivded in this interpretation of a 3D Space-Time Path Visualization: UWT buildings, GPS point data, polylines generated from GPS points, point density rasters, and 3D time-spheres. Additionally, this graphic provides a simplified workflow for the creation of the map. Click here for a video demonstration (<a href="https://youtu.be/F-1FVWIzzqo">Structured Layers - YouTube Video</a>).
 
 ## Results
 <img src= "images/3d_Results.jpg" width = "800" height = "500">
 
-a. This first option errored out when I ran the application. My assumption is that it is because it is calling a Map Service I created a hosted on a secure platform. I tried to 'Add Item' to my ArcGIS Online and embed security credentials but it was still erroring out. (<a href="https://youtu.be/BXLYv3krnqs" target="_blank">Results - YouTube Video</a>)
+
+Here, the data is combined. Generally, the vertical increase in the features is representative of time of day: the lower to the ground, the earlier in the day it is. Collection occurred on the June 29th, 2018, roughly between the time of 8am - 10pm. Click here for a video demonstration (<a href="https://youtu.be/BXLYv3krnqs" target="_blank">Results - YouTube Video</a>).
 
 ## Acknowledgments and Tech Used
 
-* Mei Po Kwan work (<a href="https://youtu.be/F-1FVWIzzqo">YouTube Video</a>)
+* Mei Po Kwan's (<a href="http://meipokwan.org/Gallery/STPaths.htm"> work. </a>)
 * 3D GIS - ESRI ArcScene v10.6
 * Processing GIS - ESRI Desktop v10.6
