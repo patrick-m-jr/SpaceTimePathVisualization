@@ -28,6 +28,6 @@ Here, the data is combined. Generally, the vertical increase in the features is 
 
 ## Acknowledgments and Tech Used
 
-* Mei Po Kwan's (<a href="http://meipokwan.org/Gallery/STPaths.htm"> work. </a>)
+* <a href="http://meipokwan.org/Gallery/STPaths.htm"> Mei Po Kwan's work. </a>
 * 3D GIS - ESRI ArcScene v10.6
 * Processing GIS - ESRI Desktop v10.6
