@@ -4,7 +4,7 @@ Introduction to a Space-Time Path Visualization.
 
 Inspired by Mei Po Kwan's Space-Time Path visualizations.
 
-<img src= "images/MeiPoKwan.jpeg" width = "500">
+<img src= "images/MeiPoKwan.jpg" width = "500">
 
 ## Updating Three Sections of the QT Code: Map Background, URL for MapServer, and Viewpoint (center, scale, and spatialreference) parameters. These are indicated by the red arrows. 
 
