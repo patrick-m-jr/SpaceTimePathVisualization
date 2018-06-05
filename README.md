@@ -1,11 +1,8 @@
 # SpaceTimePathVisualization
-Introduction to a Space-Time Path Visualization
-# ChangeSubLayerVisibility
-Simple Tutorial For Modifying Sample Code for AppStudio App. In this tuturial, I'll configure Changing SubLayer Visibility (Turning Layers in a Map Service On and Off).
+Introduction to a Space-Time Path Visualization.
+## Basics
 
-## Select New App Button and Find the Change Sublayer Visibility app 
-
-Begin by starting a New App on AppStudio for Desktop, Navigate to and Create the "Change Sublayer Visibility", and Finally let's edit this in QT!
+Inspired by Mei Po Kwan's Space-Time Path visualizations.
 
 <img src= "images/arcgisAppStudio1.png" width = "500">
 
