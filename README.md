@@ -1,5 +1,6 @@
-# SpaceTimePathVisualization
-Introduction to a Space-Time Path Visualization.
+# Space-Time Path Visualization (Time Map)
+Providing some information and graphics pertaining to the creation of 3D Space-Time Path Visualizations of GPS data collected for a day. 
+
 ## Basics
 <img src= "images/MeiPoKwan.jpg" width = "800" height = "500">
 
