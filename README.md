@@ -2,7 +2,7 @@
 Providing some information and graphics pertaining to the creation of 3D Space-Time Path Visualizations of GPS data collected for a day. 
 
 ## Basics
-<img src= "images/3D_MeiPoKwan.jpg" height = "500">
+<img src= "images/3D_MeiPoKwan.jpg" height = "350">
 
 ```
 Similiarities:
