@@ -6,7 +6,7 @@ Providing some information and graphics pertaining to the creation of 3D Space-T
 
 ```
 Similiarities:
-- Each team carried around a GPS and logged data during the course of a day.
+- Each team carried an active GPS and logged data during the course of a day.
 - Sequentially increased elevation of points and lines.
 
 Differences:
