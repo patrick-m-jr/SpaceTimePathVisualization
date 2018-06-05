@@ -15,6 +15,4 @@ a. This first option errored out when I ran the application. My assumption is th
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Mei Po Kwan work (<a href="https://youtu.be/F-1FVWIzzqo">YouTube Video</a>)
