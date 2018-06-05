@@ -13,6 +13,8 @@ a. This first option errored out when I ran the application. My assumption is th
 
 a. This first option errored out when I ran the application. My assumption is that it is because it is calling a Map Service I created a hosted on a secure platform. I tried to 'Add Item' to my ArcGIS Online and embed security credentials but it was still erroring out. (<a href="https://youtu.be/BXLYv3krnqs" target="_blank">Results - YouTube Video</a>)
 
-## Acknowledgments
+## Acknowledgments and Tech Used
 
 * Mei Po Kwan work (<a href="https://youtu.be/F-1FVWIzzqo">YouTube Video</a>)
+* 3D GIS - ESRI ArcScene v10.6
+* Processing GIS - ESRI Desktop v10.6
