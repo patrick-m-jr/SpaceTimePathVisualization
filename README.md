@@ -37,3 +37,4 @@ Here, the data is combined. Generally, the vertical increase in the features is 
 # The Digital
 
 <img src= "images/CollectorMap.jpg" width = "800" height = "500">
+<a href="https://globaldatamanagement.win/wifimap/"> The Digital Map. </a>
