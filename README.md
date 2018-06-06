@@ -1,7 +1,5 @@
 # Space-Time Path Visualization (Time Map)
-<a href="https://public.tableau.com/profile/stuart.heath#!/vizhome/505_electionMap/Dashboard1" target="_blank"> Providing </a> some information and graphics pertaining to the creation of 3D Space-Time Path Visualizations of GPS data collected for a day. 
-
-
+Providing some information and graphics pertaining to the creation of 3D Space-Time Path Visualizations of GPS data collected for a day. 
 
 ## Basics
 <img src= "images/3D_MeiPoKwan.jpg" height = "350">
@@ -34,7 +32,7 @@ Here, the data is combined. Generally, the vertical increase in the features is 
 * 3D GIS - ESRI ArcScene v10.6
 * Processing GIS - ESRI Desktop v10.6
 
-# The Digital
+## The Digital Map
 
 <img src= "images/CollectorMap.jpg" width = "800" height = "500">
 <a href="https://globaldatamanagement.win/wifimap/"> The Digital Map. </a>
