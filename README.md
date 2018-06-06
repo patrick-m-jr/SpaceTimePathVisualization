@@ -33,3 +33,7 @@ Here, the data is combined. Generally, the vertical increase in the features is 
 * <a href="http://meipokwan.org/Gallery/STPaths.htm"> Mei Po Kwan's work. </a>
 * 3D GIS - ESRI ArcScene v10.6
 * Processing GIS - ESRI Desktop v10.6
+
+# The Digital
+
+<img src= "images/CollectorMap.jpg" width = "800" height = "500">
